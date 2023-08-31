@@ -1,2 +1,2 @@
-# Rake_Demodulation
-A Simple Implementation of the Rake Demodulator.
+# Rake Demodulation
+$\bf{\text{A Simple Implementation of the Rake Demodulator.}}$
